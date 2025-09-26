@@ -27,10 +27,10 @@ This guide is built upon the curriculum of the "Become a SOLIDWORKS Simulation A
 I have successfully earned the **Certified SOLIDWORKS Associate - Simulation (CSWA-S)** certification.
 
 <p align="left">
-  <img src="PATH/TO/YOUR/BADGE.png" alt="CSWA-Simulation Badge" width="200">
+  <img src="CERTIFICAT+BADGE/BADGE.png" alt="CSWA-Simulation Badge" width="200">
 
-  <a href="PATH/TO/YOUR/CERTIFICATE.png">
-    <img src="PATH/TO/YOUR/CERTIFICATE.png" alt="CSWA-Simulation Certificate" width="280">
+  <a href="CERTIFICAT+BADGE/CERTIFICATE.png">
+    <img src="CERTIFICAT+BADGE/CERTIFICATE.png" alt="CSWA-Simulation Certificate" width="280">
   </a>
 </p>
 
