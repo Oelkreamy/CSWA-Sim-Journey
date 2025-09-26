@@ -30,7 +30,7 @@ I have successfully earned the **Certified SOLIDWORKS Associate - Simulation (CS
   <img src="CERTIFICAT+BADGE/ASSOCIATE - SIMULATION.png" alt="CSWA-Simulation Badge" width="300">
 
   <a href="CERTIFICAT+BADGE/Certificate_C-D9YF6RJV87.jpg">
-    <img src="CERTIFICAT+BADGE/Certificate_C-D9YF6RJV87.jpg" alt="CSWA-Simulation Certificate" width="500">
+    <img src="CERTIFICAT+BADGE/Certificate_C-D9YF6RJV87.jpg" alt="CSWA-Simulation Certificate" width="600">
   </a>
 </p>
 
