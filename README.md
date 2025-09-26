@@ -32,6 +32,7 @@ I have successfully earned the **Certified SOLIDWORKS Associate - Simulation (CS
 ## 🗂️ Repository Structure
 
 To make navigation easy, the repository is organized into the following directories:
+
 ├── 📄 README.md
 ├── 📄 IMPORTANT_LINKS.md       <-- Curated list of external resources
 │
@@ -48,7 +49,6 @@ To make navigation easy, the repository is organized into the following director
 └── ...                     <-- And so on for all sections
 
 ---
-
 
 ## 🤝 Contributing
 
