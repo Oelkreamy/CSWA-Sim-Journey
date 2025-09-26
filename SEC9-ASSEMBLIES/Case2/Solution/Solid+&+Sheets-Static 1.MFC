@@ -1,0 +1,16 @@
+[StartTime]
+Solid+&+Sheets-Static 1.MFC=2s
+[SolverState]
+Solid+&+Sheets-Static 1.MFC=2
+[MainFrame]
+Solid+&+Sheets-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Solid+&+Sheets-Static 1.MFC=No
+[SolverType]
+Solid+&+Sheets-Static 1.MFC=Linear Analysis
+[StudyType]
+Solid+&+Sheets-Static 1.MFC=0
+[StudyName]
+Solid+&+Sheets-Static 1.MFC=Static 1
+[Solver]
+Solid+&+Sheets-Static 1.MFC=Sparse

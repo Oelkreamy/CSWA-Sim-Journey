@@ -1,0 +1,16 @@
+[StartTime]
+SolidQuiz-RingsModel-Static 1.MFC=1s
+[SolverState]
+SolidQuiz-RingsModel-Static 1.MFC=2
+[MainFrame]
+SolidQuiz-RingsModel-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+SolidQuiz-RingsModel-Static 1.MFC=No
+[SolverType]
+SolidQuiz-RingsModel-Static 1.MFC=Linear Analysis
+[StudyType]
+SolidQuiz-RingsModel-Static 1.MFC=0
+[StudyName]
+SolidQuiz-RingsModel-Static 1.MFC=Static 1
+[Solver]
+SolidQuiz-RingsModel-Static 1.MFC=Sparse
