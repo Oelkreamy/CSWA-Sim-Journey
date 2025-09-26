@@ -13,13 +13,6 @@ After successfully passing the CSWA-Simulation exam, I created this repository t
 
 This guide is built upon the curriculum of the "Become a SOLIDWORKS Simulation Associate Today!" course on Udemy and my personal study notes.
 
-### ✨ Key Features
-
-* **FEA Theory:** In-depth notes explaining the fundamental principles of Finite Element Analysis.
-* **Solved Problems:** A collection of practice problems with step-by-step solutions and `.SLDPRT` files.
-* **Quick Reference Sheets:** Condensed notes for last-minute review.
-* **Curated Links:** A list of useful tutorials, articles, and official documentation.
-
 ---
 
 ## 🏆 My Achievement
@@ -55,18 +48,6 @@ To make navigation easy, the repository is organized into the following director
 └── ...                     <-- And so on for all sections
 ---
 
-## 🚀 How to Use This Repository
-
-You can clone this repository to your local machine to access all the files.
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/CSWA-Simulation-Prep-Guide.git](https://github.com/YOUR_USERNAME/CSWA-Simulation-Prep-Guide.git)
-    ```
-2.  **Explore the Folders:** Start with the `THEORY` directory to build your foundational knowledge.
-3.  **Practice:** Work through the problems in the `PRACTICE_PROBLEMS` directory.
-
----
 
 ## 🤝 Contributing
 
@@ -85,8 +66,3 @@ Contributions are welcome! If you have additional notes, new problems, or helpfu
 This project is distributed under the MIT License. See the `LICENSE` file for more information.
 
 ---
-
-## 🙏 Acknowledgments
-
-* A special thanks to the creators of the "Become a SOLIDWORKS Simulation Associate Today!" course on Udemy.
-* The amazing SOLIDWORKS community.
